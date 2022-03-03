@@ -18,6 +18,6 @@
 
 
 ## Contacts
-<a href = "https://github.com/jiwon1027"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a><a href = "https://ddangjiwon.tistory.com"><img src="https://img.shields.io/badge/blog-F7DF1E?style=flat-square&logo=Kakao&logoColor=white"/></a><a href = "#"><img src="https://img.shields.io/badge/Portfolio-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href = "https://github.com/jiwon1027" target = "_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a><a href = "https://ddangjiwon.tistory.com" target = "_blank"><img src="https://img.shields.io/badge/blog-F7DF1E?style=flat-square&logo=Kakao&logoColor=white"/></a><a href = "#" target = "_blank"><img src="https://img.shields.io/badge/Portfolio-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
